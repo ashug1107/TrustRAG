@@ -1,0 +1,6 @@
+{
+  "name": "KnowAI - AI-Powered Knowledge Retrieval System",
+  "description": "A modern AI-powered knowledge retrieval system frontend for querying multiple documents with voice/text, grounded citations, and confidence scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
