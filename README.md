@@ -68,4 +68,4 @@ npm install
 
 # Start the Vite development server
 npm run dev
-Navigate to http://localhost:5173 in your web browser to launch the TrustRAG interface.
+Navigate to http://localhost:3000 in your web browser to launch the TrustRAG interface.
